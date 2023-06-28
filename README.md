@@ -20,7 +20,7 @@ Accessible, reusable, and highly performant date and time components for React a
 To use these components in your project, clone this repository:
 
 ```bash
-git clone https://github.com/username/react-clock-component.git
+git clone https://github.com/mkimitch/react-clock-component.git
 ```
 
 Then install dependencies:
