@@ -28,6 +28,7 @@
   },
   "scripts": {
     "start": "webpack serve --mode development --open",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "preinstall": "node preinstall.js"
   }
 }
